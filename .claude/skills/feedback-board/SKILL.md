@@ -4,7 +4,7 @@ description: Builds board.html - a one-page board of the week's feedback from wo
 ---
 
 1. Read work/triage.csv and the CSV it came from (inputs/feedback.csv unless I name another file).
-2. Use the frontend-design skill (frontend-design:frontend-design) for the look, if it is installed. Keep everything self-contained anyway.
+2. If design.md exists next to this file, follow it exactly for the look, and it wins over everything else. Otherwise use the frontend-design skill (frontend-design:frontend-design), if it is installed. Keep everything self-contained anyway.
 3. Write board.html directly with the Write tool: one self-contained file. All data inside the file, no internet needed, no external fonts or scripts. Don't write or run any Python or other scripts to build it.
 4. The board shows:
    - At the top: total messages, number URGENT, and the busiest team
