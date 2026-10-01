@@ -11,4 +11,5 @@ description: Builds board.html - a one-page board of the week's feedback from wo
    - A count per category
    - Every URGENT message: id, channel, category, team and the customer's exact words
    - The ideas and praise, in the customers' words
+   - At the very end, a footer that reads "Made by Itish Pande"
 5. Tell me to open board.html in a browser.
