@@ -1,0 +1,13 @@
+id,category,urgency,team,reason
+1,Product quality,NORMAL,Quality,"""grinder with a bent handle, it scrapes the body"""
+2,Billing & refunds,URGENT,Finance,"""Rs 1,099 debited, no order in my account"""
+3,Praise,NORMAL,Marketing,"""Your Baba Budan roast + oat milk = my whole personality now"""
+4,Product quality,NORMAL,Quality,"""Is the Sumatra blend good for French press"""
+5,Website & app,NORMAL,Tech,"""The app crashes when I try to change my delivery address"""
+6,Idea,NORMAL,Product,"""Please add UPI autopay for subscriptions"""
+7,Delivery,URGENT,Logistics,"""stuck at 'shipped' for 8 days"" and ""consumer forum"""
+8,Delivery,NORMAL,Logistics,"""the box was crushed on one side"""
+9,Subscription,NORMAL,Customer care,"""Can I gift a 3-month subscription to my brother"""
+10,Product quality,URGENT,Quality,"""small plastic piece inside the bean bag"""
+11,Praise,NORMAL,Marketing,"""Customer care fixed my wrong order in a day"""
+12,Billing & refunds,URGENT,Finance,"""You charged GST twice on my invoice"""
